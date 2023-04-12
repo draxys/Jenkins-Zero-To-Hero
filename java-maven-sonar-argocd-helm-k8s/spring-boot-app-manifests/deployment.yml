@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: draxys/javamvn:6
+        image: draxys/javamvn:8
         ports:
         - containerPort: 8080
